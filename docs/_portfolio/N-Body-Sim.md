@@ -12,7 +12,7 @@ The simulation is as realistic as possible, and takes in real-world accurate val
 and distances and uses an accurate gravitational constant. This means that simulations like the real behavior of earth and the moon (assuming a closed system) are possible.
 
 The main limitation of this project is the speed that the output runs at, as I used built-in GDIplus graphics which use the CPU, not GPU to display frames. Note that the
-GIFs below are sped up, with both being at around 2x speed. [github](https://github.com/Catpotato42/Three-Body-Problem-2D-Collab)
+GIFs below are sped up, with both being at around 2x speed. [github](https://github.com/Catpotato42/N-Body-Problem-2D-Collab)
 
 <div class="gif-row">
   <img src="/assets/img/NBody-main1.png" alt="">
